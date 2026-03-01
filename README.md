@@ -8,3 +8,6 @@ Do you wish to help Beta Test for free?  If so use this [link](https://testfligh
 
 
 The wiki is [here](https://github.com/netskink/blue_red_combat_public/wiki)
+
+## status
+Status/plans/next steps are [here](https://github.com/netskink/blue_red_combat_public/wiki/Status)
